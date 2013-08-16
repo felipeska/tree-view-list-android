@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="pressed_example">#CCe1eb9e</color>
+    <color name="list_divider_top">#E2E2E2</color>
+    <color name="list_divider_bottom">#FFFFFF</color>
+    <color name="background">#F9F9F9</color>
+    <color name="background_selected">#E8E8E8</color>
+
+</resources>
